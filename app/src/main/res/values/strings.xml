@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MonthlyRecycleView</string>
+
+
+        <string name="MonthlyRecycleView">month_name</string>
+        <string name="M1">January.</string>
+        <string name="M2">February.</string>
+        <string name="M3">March.</string>
+        <string name="M4">April.</string>
+        <string name="M5">May.</string>
+        <string name="M6">June.</string>
+        <string name="M7">July.</string>
+        <string name="M8">August.</string>
+        <string name="M9">September.</string>
+        <string name="M10">October .</string>
+        <string name="M11">November.</string>
+        <string name="M12">December.</string>
+
+</resources>
