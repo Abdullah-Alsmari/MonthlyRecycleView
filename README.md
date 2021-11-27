@@ -1,4 +1,4 @@
-# MonthlyRecycleView
+# MonthlyRecyclerView
 
 An android application that displays list of month names
 
