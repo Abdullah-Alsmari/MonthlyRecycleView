@@ -9,6 +9,6 @@ An android application that displays list of month names
 
 # References
 
--https://howtodoandroid.com/recyclerview-android/
+- https://howtodoandroid.com/recyclerview-android/
 
 
